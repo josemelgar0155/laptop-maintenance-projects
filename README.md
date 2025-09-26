@@ -19,8 +19,8 @@
 ---
 
 ## 📊 Results / Resultados
-- **EN:** System upgraded from 8 GB → 16 GB RAM.  
-- **ES:** El sistema fue actualizado de 8 GB → 16 GB de RAM.  
+- **EN:** System upgraded from 16 GB → 32 GB RAM.  
+- **ES:** El sistema fue actualizado de 16 GB → 32 GB de RAM.  
 
 **EN:** Benefits:  
 - Smoother multitasking and programming environments.  
