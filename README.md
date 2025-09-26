@@ -33,7 +33,7 @@
 ---
 
 ## 📷 Evidence / Evidencia
-- ![Before Upgrade](./images/process1.jpg)  
+- ![Before Upgrade](images/process1.png)  
 - ![After Upgrade](./images/after.jpg)  
 - ![Task Manager](./images/task-manager.png)  
 
