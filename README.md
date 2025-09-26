@@ -34,8 +34,14 @@
 
 ## 📷 Evidence / Evidencia
 - ![Before Upgrade](images/process1.png)  
-- ![After Upgrade](./images/after.jpg)  
-- ![Task Manager](./images/task-manager.png)  
+- ![Before Upgrade](images/process2.png)  
+- ![Before Upgrade](images/process3.jpg)  
+- ![Before Upgrade](images/process4.jpb)
+- ![Before Upgrade](images/process8.jpb)- 
+- ![After Upgrade](images/process6.jpg)  
+- ![After Upgrade](iimages/process6.jpg)  
+- ![After Upgrade](iimages/process9.jpg)  
+- ![Task Manager](images/process7.png)  
 
 ---
 
