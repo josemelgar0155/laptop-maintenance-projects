@@ -39,8 +39,7 @@
 - ![Before Upgrade](images/process4.jpeg)
 - ![Before Upgrade](images/process8.jpeg)- 
 - ![After Upgrade](images/process6.jpeg)  
-- ![After Upgrade](iimages/process6.jpeg)  
-- ![After Upgrade](iimages/process9.jpeg)  
+- ![After Upgrade](images/process9.jpeg)  
 - ![Task Manager](images/process7.png)  
 
 ---
