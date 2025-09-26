@@ -35,12 +35,12 @@
 ## 📷 Evidence / Evidencia
 - ![Before Upgrade](images/process1.png)  
 - ![Before Upgrade](images/process2.png)  
-- ![Before Upgrade](images/process3.jpg)  
-- ![Before Upgrade](images/process4.jpb)
-- ![Before Upgrade](images/process8.jpb)- 
-- ![After Upgrade](images/process6.jpg)  
-- ![After Upgrade](iimages/process6.jpg)  
-- ![After Upgrade](iimages/process9.jpg)  
+- ![Before Upgrade](images/process3.jpeg)  
+- ![Before Upgrade](images/process4.jpeg)
+- ![Before Upgrade](images/process8.jpeg)- 
+- ![After Upgrade](images/process6.jpeg)  
+- ![After Upgrade](iimages/process6.jpeg)  
+- ![After Upgrade](iimages/process9.jpeg)  
 - ![Task Manager](images/process7.png)  
 
 ---
