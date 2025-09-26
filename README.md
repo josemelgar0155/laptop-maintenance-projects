@@ -35,7 +35,7 @@
 ## 📷 Evidence / Evidencia
 - ![Before Upgrade](images/process1.png)  
 - ![Before Upgrade](images/process2.png)  
-- ![Before Upgrade](images/process3.jpeg)  
+- ![Before Upgrade](images/process3.png)  
 - ![Before Upgrade](images/process4.jpeg)
 - ![Before Upgrade](images/process8.jpeg)- 
 - ![After Upgrade](images/process5.jpeg)  
